@@ -18,7 +18,7 @@ const Index: React.FunctionComponent = () => {
       <Block
         bgColor="green"
         title="Quais são os prêmios?"
-        subtitle="bla bla bla"
+        subtitle="bla bla bla bla"
       />
     </Layout>
   );
