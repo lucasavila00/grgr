@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/grgr",
   siteMetadata: {
     title: `Studio`,
   },
