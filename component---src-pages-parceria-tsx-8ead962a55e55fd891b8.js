@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{lbLP:function(e,t,a){"use strict";a.r(t);var l=a("q1tI"),n=a("9Dj+"),o=a("OPA0");t.default=function(){return l.createElement(n.a,{selectedKey:"parceria"},l.createElement(o.a,{bgColor:"green",title:"Incentive seus clientes a salvar o mundo",subtitle:"A gente cuida de tudo!"}),l.createElement(o.a,{bgColor:"white",title:"Que prêmios posso oferecer?",subtitle:"bla bla bla bla"}))}}}]);
+//# sourceMappingURL=component---src-pages-parceria-tsx-8ead962a55e55fd891b8.js.map
